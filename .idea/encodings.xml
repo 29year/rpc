@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-grpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-grpc/grpc-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-grpc/grpc-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-thrift" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-thrift/thrift-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-thrift/thrift-server" charset="UTF-8" />
+  </component>
+</project>
